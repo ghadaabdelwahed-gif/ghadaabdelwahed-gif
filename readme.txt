@@ -7,7 +7,7 @@ I’m in my first year studying computer science engineering, exploring programm
 
 Building small projects to practice C programming, HTML/CSS, and Git/GitHub
 
-Strengthening my skills in maths, physics, and computer science
+Strengthening my skills in maths and computer science
 
 Learning automation and version control
 
